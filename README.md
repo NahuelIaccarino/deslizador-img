@@ -1,0 +1,1 @@
+Deslizador de img.
